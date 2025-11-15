@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c21824&label=Profile%20views&color=0e75b6&style=flat" alt="c21824" /> </p>
 
-- 🔭 I’m currently working on [QuickDraw](https://github.com/c21824/QuickDraw.git)
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 💬 Ask me about **ML, DL**
+- 🔭 I’m currently working on [PTIT]((https://ptit.edu.vn/))
 
 - 📫 How to reach me **cuongngoquang3@gmail.com**
 
